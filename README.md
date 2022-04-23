@@ -1,13 +1,8 @@
 # 이정범😀
 
-<!--
-**Hedeey/Hedeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... aichallenge.poscoict.com
 - 🌱 I’m currently learning ... java, python
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedeey&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jbeom2005)](https://solved.ac/jbeom2005)
