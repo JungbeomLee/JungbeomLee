@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedeey&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jbeom2005)](https://solved.ac/jbeom2005)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hedeey)](https://github.com/ryo-ma/github-profile-trophy)
+[![2JB's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HedeeyID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hedeey)
 
 # skill🛠
 ### Languages
