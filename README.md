@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... java, python
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedeey&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedeey&show_icons=true&theme=radical)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jbeom2005)](https://solved.ac/jbeom2005)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedeey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
