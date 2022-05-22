@@ -1,4 +1,4 @@
-# 이정범😀
+# 이정범😃
 
 - 🔭 I’m currently working on ... aichallenge.poscoict.com
 - 🌱 I’m currently learning ... java, python
