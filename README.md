@@ -23,5 +23,8 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-# BLOG
+# Link
+### Blog
 https://smcjungbumc.tistory.com/
+### Portfolio
+https://outrageous-dolomite-a4e.notion.site/287f768d2df44f9cb7f77e635168dd8c
