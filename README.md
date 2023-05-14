@@ -3,10 +3,6 @@
 - 🔭 I’m currently working on ... aichallenge.poscoict.com
 - 🌱 I’m currently learning ... java, python
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungbeomLee&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungbeomLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 # skill🛠
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=blue)
