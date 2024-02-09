@@ -1,6 +1,5 @@
 # 이정범😃
 
-- 🔭 I’m currently working on ... SmarTeen App Challenge 2023
 - 🌱 I’m currently learning ... python
 
 # Link
